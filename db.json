@@ -1,5 +1,5 @@
 {
-  "montain":
+  "detail":
   [
     {
       "id": 1,
@@ -102,7 +102,7 @@
       "gambar": "http://dummyimage.com/500x250.png/cc0000/ffffff"
     }
   ],
-  "detail":
+  "montains":
   [{
     "id": 1,
     "user": "Sosanna",
